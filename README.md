@@ -15,9 +15,6 @@ AI・ウェブ技術を活用したビジネスプロセスの最適化、コス
 ## 📫 お問い合わせ
 開発助成金申請のサポート、潜在的なクライアントや人材の紹介など、あらゆるコラボレーションについては東京本社までご連絡ください。
 
-## 😄 私たちの理念
-「We」の精神—個々の力を結集し、共に成長し、共に成功する。
-
 ## ⚡ ストーリー
 長年培ってきた技術力と専門知識をより多くの方々に届けたいという情熱から、東京の中心地にCOMENは誕生しました。一人ひとりの「できる」を集結させ、クライアントと共に未来を創造しています。
 
@@ -39,9 +36,6 @@ We seek like-minded partners for projects involving AI and web technologies for 
 
 ## 📫 Contact Us
 For all collaborations, including support for development grant applications or introductions to potential clients or talent, please reach out to our Tokyo headquarters.
-
-## 😄 Our Philosophy
-The spirit of "We" — combining individual strengths, growing together, and succeeding together.
 
 ## ⚡ Our Story
 COMEN was born in the heart of Tokyo from a passion to deliver technical prowess and expertise cultivated over years to a broader audience. We unite the "can-do" spirit of each individual to create the future together with our clients.
