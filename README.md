@@ -20,7 +20,7 @@ AI・ウェブ技術を活用したビジネスプロセスの最適化、コス
 
 ---
 
-# COMEN Inc.
+# COMEN Co., Ltd.
 
 ## 👋 About Us
 COMEN is a collective of experts tackling modern corporate challenges of personnel shortages and succession issues through cutting-edge web technologies and AI solutions. Based in Tokyo, we harness the power of technology to forge the future of business.
